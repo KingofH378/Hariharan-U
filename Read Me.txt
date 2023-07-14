@@ -1,0 +1,17 @@
+
+Install the Required Software:
+          1. JDK 1.8
+          2. Neatbeans 8.2
+          3. Wamp Server 2.0 (mysql 5.1.36)
+
+Operating System: 	MS-Windows 7 or Above
+
+
+Launch NETBEANS and OPEN          Cargo Booking and Logistic Management System          project. 
+
+
+Then      RUN      the          LoginPage          file in          CargoBooking.gui     package.  
+
+
+
+				Thank You.
